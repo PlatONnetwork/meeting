@@ -7,7 +7,7 @@
 
  序号 | 日期                             | 议题        | 说明          | 记录            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
-  0 | 2021-02-02 14:00 ~ 16:00 UTC+8  | [议题](https://github.com/PlatONnetwork/meeting/issues/1) | [notes](Core%20Devs%20Meetings/Meeting%0.md) | 未记录 |
+  0 | 2021-02-02 14:00 ~ 16:00 UTC+8  | [议题](https://github.com/PlatONnetwork/meeting/issues/1) | [notes](Core%20Devs%20Meetings/Meeting%200.md) | 未记录 |
 
 
 ### 谁能参加
