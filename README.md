@@ -1,7 +1,7 @@
 ## 核心开发者会议
 
 ### 目的
-核心开发者会议意在发现和引入各种PlatON协议的建设性意见和建议，讨论和改进[PIPs](https://github.com/PlatONnetwork/PIPs)以及所有与PlatON技术有关的优化改进。
+核心开发者会议意在发现和引入各种PlatON协议的建设性意见和建议，讨论和改进[PIPs](https://github.com/PlatONnetwork/PIPs)以及所有与PlatON技术有关的优化。
 
 ### 往期会议
 
