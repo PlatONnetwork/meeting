@@ -11,7 +11,7 @@
 
 
 ### 谁能参加
-PlatON底层协议开发者，核心技术研究者将被邀请出席会议，如果您对PlatON感兴趣并在区块链底层相关领域有特别的经验也可以报名参加该会议，报名请联系support@platon.network。
+PlatON底层协议开发者，核心技术研究者将被邀请出席会议，如果您对PlatON感兴趣并在区块链底层相关领域有特别的经验也可以报名参加该会议，报名请联系developer@latticex.foundation。
 
 ### 议程
 议程将首先发布在 https://github.com/PlatONnetwork/meeting/issues. 在遵守如下约定的前提下任何人都可以提交会议议题。
