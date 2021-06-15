@@ -27,6 +27,10 @@ Boney
 
 巴依
 
+- Video
+
+[Youtube](https://www.youtube.com/watch?v=n6Owk2kOQGE)
+
 ## 摘要
 
 - [biganxin](https://github.com/biganxin) 介绍了开发者社区治理执行细则和资助计划
