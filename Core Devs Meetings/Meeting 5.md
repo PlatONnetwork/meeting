@@ -27,9 +27,6 @@ Boney
 
 巴依
 
-- Video
-
-[Youtube](https://www.youtube.com/watch?v=n6Owk2kOQGE)
 
 ## 摘要
 
