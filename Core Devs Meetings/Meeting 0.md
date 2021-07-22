@@ -85,3 +85,75 @@
 **jianghaitao**：
 
 1. 技术与治理委员会各成员的职责应有所偏向（如权限管理，成员准入，组织会议，research领导、制定技术路线图）
+
+[English translation]
+### Compere
+    jianghaitao
+
+### Summary
+    jianghaitao
+
+### Abstract
+    Participants conducted in-depth discussions on topics such as the responsibilities, division of labor, and management of core developers of the Technology and Governance Committee.
+
+## Resolution
+
+| Serial number | Description                                                           |
+| ------------- | ----------------------------------------------------- |
+| **0.1.1**   | As the responsibilities have not been clearly discussed, the chairman of the Technology and Governance Committee will not be elected for the time being   |
+| **0.1.2**   | The meeting passed a resolution on guowenjing taking the initiative to resign as a member of the Technology and Governance Committee |
+| **0.1.3**   | The meeting passed a resolution on Jianghaitao becoming a member of the Technology and Governance Committee |
+
+## To be implemented
+
+| Serial number | Description                                                                                             |
+| ----------- | ------------------------------------------------------------------------------------------------------- |
+| **0.2.1** | The strategic positioning of Alaya and Platon at the board level will need to be determined by this week |
+| **0.2.2** | Added PlatONnetwork/meeting warehouse to archive the minutes of each meeting |
+| **0.2.3** | After the meeting, Jianghaitao further improved the content of the chapter on the technology and governance committee of the "Foundation Governance Structure" |
+
+## Useful links
+
+**0.3.1**: [meeting/github](https://github.com/PlatONnetwork/meeting)
+
+---
+
+## Responsibilities of Technology and Governance Committee
+  Participants focused on discussing the scope of duties of the Technical and Governance Committee, the division of labor with the Ecological Development Committee, etc. The following are the preliminary responsibilities for sorting out:
+
+  - Executive Council Strategy
+  - Access, rating, etc. of core developers
+  - PIP screening, organize core developers to discuss PIP
+  - Soliciting/screening community opinions
+  - Hire technical leaders, experts, etc. to become core developers
+  - Develop a technology development roadmap
+  - Authorize core developers to manage open source code
+
+## View
+
+**guowenjing**：
+1. More people should be admitted to the Technology and Governance Committee
+2. Grants related projects should be managed by the Ecological Development Committee
+
+**lishenglin**：
+
+1. The Technology and Governance Committee should not review specific code/PIP, and only authorize core developers to do these tasks
+2. The scope of governance (on-chain/off-chain) that the Technology and Governance Committee is responsible for must be clear
+3. The Technology and Governance Committee serves the Ecological Committee
+4. The main responsibility of the Technology and Governance Committee is to recruit and manage core developers
+5. The core developer meeting can be held together with the technical committee meeting, but the technical committee members and core developers are different, and the qualifications for entering the committee should be strictly controlled
+6. PIP is the method of technology and governance committee management technology
+
+**qujunjie**：
+
+1. The work system, process, and responsibilities of committee members can be implemented according to the discussion results first, and then gradually revised
+2. The committee can directly hire domestic and international KOLs and experts
+3. Regularly collect opinions from core developers to decide whether to hold a core developer meeting
+
+**biganxin**：
+
+1. Based on the board’s strategy or ecological layout requirements, the Technical Governance Committee may need to formulate some general technical route directions (architecture) in the early stage, and targeted publishing to the community to discuss implementation plans
+
+**jianghaitao**：
+
+1. The responsibilities of the members of the Technology and Governance Committee should have their own preferences (such as authority management, member access, organization of meetings, research leadership, and development of technology roadmaps)
